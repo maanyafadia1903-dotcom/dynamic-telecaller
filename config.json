@@ -1,0 +1,15 @@
+{
+    "call_settings": {
+        "min_duration": 3,
+        "max_duration": 6,
+        "max_queue_size": 10
+    },
+    "priority_levels": {
+        "1": "VVIP",
+        "2": "VIP",
+        "3": "General"
+    },
+    "system_settings": {
+        "log_file": "call_center.log"
+    }
+}
